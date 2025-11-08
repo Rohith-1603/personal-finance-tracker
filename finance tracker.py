@@ -4,7 +4,7 @@ import datetime
 def main():
     incomes = []
     expenses = []
-    budget = {}  # dict of (month, year): amount
+    budget = {}  
 
     print("=== Personal Finance Tracker ===")
 
@@ -153,3 +153,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
